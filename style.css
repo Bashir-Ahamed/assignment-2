@@ -293,6 +293,25 @@ nav {
 
 /* Extra Section */
 
+.our-services {
+  background-color: var(--dark);
+  border-radius: 2rem;
+  max-width: 95%;
+  margin: 3rem auto;
+  align-items: center;
+}
+
+.service {
+  text-align: center;
+  padding: 2rem;
+}
+
+.service > h2 {
+  font-size: 2.2rem;
+  padding-bottom: 2rem;
+  color: var(--white);
+}
+
 /* Footer section start */
 
 .footer-container {
