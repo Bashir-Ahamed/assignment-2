@@ -314,17 +314,6 @@ nav {
 
 /* Footer section start */
 
-.footer-container {
-  background-color: var(--secondary);
-}
-
-.footer-description {
-  margin-top: 3.2rem;
-  margin-bottom: 4rem;
-  padding: 1.5rem;
-  text-align: center;
-}
-
 /* Footer section end */
 
 /* Responsive Style start */
